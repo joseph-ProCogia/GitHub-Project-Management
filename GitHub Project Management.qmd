@@ -1,0 +1,198 @@
+---
+title: "GitHub Project Management"
+author: "Joseph Korszun"
+date: 2023-03-09
+date-format: long  
+format: 
+  revealjs:
+    theme: serif
+editor: visual
+---
+
+## Purpose
+
+The purpose of this presentation is to outline and demonstrate the utility of GitHub Projects at a fundamental level.
+
+![](GitHub%20Logo.png){fig-align="right" width="512"}
+
+# Agenda
+
+-   What are GitHub Projects?
+-   Creating a Project in GitHub
+-   Managing Cards and Issues
+-   Fields and Customization
+-   Creating Views for Projects
+-   Automating Workflow
+-   Demo
+
+## What are GitHub Projects?
+
+-   Project Management software for planning and organizing
+-   Projects are built from issues and pull requests you add
+-   Provides flexible solution for your teams needs
+
+## Creating your first project
+
+The Navigation bar with a repository is used to switch between different components.
+
+![](Navigation%20Bar.png){fig-align="center"}
+
+## Creating your first project
+
+Code
+
+:   File structure of software development project
+
+Issues
+
+:   Users can log bugs or enhancement requests
+
+Pull Requests
+
+:   Developers are ready to merge branches to combine code updates
+
+Actions
+
+:   GitHub actions help automate workflows in GitHub
+
+## Creating your first project
+
+Projects
+
+:   Organize development efforts with project planning
+
+Wiki
+
+:   Documentation for coding efforts, statuses and road maps
+
+Insights
+
+:   Analytics on repository commits, traffic, and forking efforts
+
+Settings
+
+:   Repository settings including security, accessibility, etc.
+
+## Creating your first project
+
+The project tab comes with the options of linking a project to a repository or creating a new project for this repository.
+
+![](Project%20Tab.png)
+
+## Views for Projects
+
+Project views help users look at their projects from different angles
+
+-   Filter status to view select items
+-   Group by a custom priority
+-   Sort by a custom date field
+
+## Types of Views for Projects
+
+Table
+
+:   Spreadsheet table view with ability to sort, filter or group issues and pull requests
+
+Board
+
+:   Kanban Board view with ability to sort, filter or group issues and pull requests
+
+Roadmap
+
+:   Gaant Chart view with ability to sort, filter or group issues and pull requests
+
+## Types of Views for Projects
+
+Kanban View of GitHub Projects
+
+![](Kanban%20View.png)
+
+## Managing Cards and Issues
+
+-   Cards are in draft state, while issues can link to code commits
+-   To label or link to another repository cards must be issues
+    -   This is indicated by the status symbol within description
+
+![](Status%20Symbol.png){fig-align="right"}
+
+## Managing Cards and Issues
+
+-   The issues tab is for logging development issues, bugs, or enhancements
+-   It can be used to manage milestones, labels, or branches
+
+![](Issues.png){fig-align="center"}
+
+## Fields and Customization
+
+There are several fields for each issue: 
+
+- Description
+- Comments
+- Assignee(s)
+- Labels
+- Milestone
+- Status 
+- Linked Pull Requests
+- Repository
+
+## Fields and Customization
+
+![](Fields.png)
+
+## Setting Up Alerts for Users
+
+- To receive email notifications you must be a collaborator or a watcher on a repository
+- You can receive email notifications or GitHub notifications
+  - By default email notifications will be enabled within your account settings
+- Limit, customize, or ignore notifications from a watched respiratory
+
+## Setting Up Alerts for Users
+
+![](Notifications.png)
+
+## Setting Up Alerts for Users
+
+![](Alert Example.png)
+
+
+## Automating Workflows
+
+Users will have the ability to automate their GitHub Projects with the following options:
+
+-   Built-in Automation
+-   Archiving automatically
+-   Automation with API
+-   Automation with Actions
+
+## Built In Automations
+
+- Projects can include built-in workflows for specific statuses of items
+  - Ex: Automatically set status as To-Do when an item is added to project
+- There is a list of default workflows that can be edited 
+- To enable/disable workflow select the desired workflow and toggle on/off
+
+## Built In Automations
+
+![](Workflows.png)
+
+## Demo
+
+Task:
+
+1.  Create a new GitHub project
+2.  Checking email notifications for users
+3.  Create a new card
+4.  Convert card to issue
+5.  Setting up Roadmap View
+6.  Creating start and end date fields
+7.  Create automatic archiving
+
+## References
+
+-   [About GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+-   [Creating A GitHub Repository](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+-   [GitHub](https://github.com/)
+-   [Automating Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project)
+-   [Quickstart for GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)
+
+# Questions?
