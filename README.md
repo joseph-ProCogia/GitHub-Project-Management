@@ -12,4 +12,4 @@ Public repository for tutorial on GitHub Projects.
 -   Automating Workflow
 -   Demo
 
-Slides: 
+Slides: [Presentation pdf](https://github.com/joseph-ProCogia/GitHub-Project-Management/blob/main/GitHub%20Project%20Management%20Presentation.pdf)
